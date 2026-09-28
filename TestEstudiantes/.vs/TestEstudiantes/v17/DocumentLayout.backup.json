@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\reportes\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\reportes\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\controllers\\reportescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:controllers\\reportescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\shared\\_layout.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\data\\reportesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:data\\reportesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\_viewstart.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\_viewstart.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\controllers\\calificacionescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:controllers\\calificacionescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\calificaciones\\details.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\calificaciones\\details.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\controllers\\estudiantescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:controllers\\estudiantescontroller.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\calificaciones\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\calificaciones\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:app_start\\routeconfig.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\data\\sqlhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:data\\sqlhelper.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\models\\estudiantenotminima.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:models\\estudiantenotminima.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\estudiantes\\delete.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\estudiantes\\delete.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\estudiantes\\details.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\estudiantes\\details.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\estudiantes\\edit.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\estudiantes\\edit.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\calificaciones\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\calificaciones\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\calificaciones\\edit.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\calificaciones\\edit.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\calificaciones\\delete.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\calificaciones\\delete.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\estudiantes\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\estudiantes\\create.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\views\\estudiantes\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:views\\estudiantes\\index.vbhtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\models\\estudiantes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:models\\estudiantes.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\data\\calificacionesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:data\\calificacionesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\data\\estudiantesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:data\\estudiantesrepository.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|d:\\downloads\\pruebatecnicaindra\\testestudiantes\\models\\calificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4F047D1B-C2CA-47BB-B9AC-9C059B05EB67}|TestEstudiantes.vbproj|solutionrelative:models\\calificaciones.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Details.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Calificaciones\\Details.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Details.vbhtml",
+              "RelativeToolTip": "Views\\Calificaciones\\Details.vbhtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:24:34.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\_ViewStart.vbhtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\_ViewStart.vbhtml",
+              "RelativeToolTip": "Views\\_ViewStart.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:54:54.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Shared\\_Layout.vbhtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.vbhtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T18:03:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReportesController.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\ReportesController.vb",
+              "RelativeDocumentMoniker": "Controllers\\ReportesController.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\ReportesController.vb",
+              "RelativeToolTip": "Controllers\\ReportesController.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:38:07.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Reportes\\Index.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Reportes\\Index.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Reportes\\Index.vbhtml",
+              "RelativeToolTip": "Views\\Reportes\\Index.vbhtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:40:43.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportesRepository.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\ReportesRepository.vb",
+              "RelativeDocumentMoniker": "Data\\ReportesRepository.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\ReportesRepository.vb",
+              "RelativeToolTip": "Data\\ReportesRepository.vb",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:27:26.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstudiantesController.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\EstudiantesController.vb",
+              "RelativeDocumentMoniker": "Controllers\\EstudiantesController.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\EstudiantesController.vb",
+              "RelativeToolTip": "Controllers\\EstudiantesController.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:29:40.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalificacionesController.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\CalificacionesController.vb",
+              "RelativeDocumentMoniker": "Controllers\\CalificacionesController.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Controllers\\CalificacionesController.vb",
+              "RelativeToolTip": "Controllers\\CalificacionesController.vb",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:36:15.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Index.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Calificaciones\\Index.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Index.vbhtml",
+              "RelativeToolTip": "Views\\Calificaciones\\Index.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:19:37.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SqlHelper.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\SqlHelper.vb",
+              "RelativeDocumentMoniker": "Data\\SqlHelper.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\SqlHelper.vb",
+              "RelativeToolTip": "Data\\SqlHelper.vb",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:10:34.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Edit.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Edit.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Edit.vbhtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Edit.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:33:21.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EstudianteNotMinima.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\EstudianteNotMinima.vb",
+              "RelativeDocumentMoniker": "Models\\EstudianteNotMinima.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\EstudianteNotMinima.vb",
+              "RelativeToolTip": "Models\\EstudianteNotMinima.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:08:10.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteConfig.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\App_Start\\RouteConfig.vb",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\App_Start\\RouteConfig.vb",
+              "RelativeToolTip": "App_Start\\RouteConfig.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T17:37:16.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Details.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Details.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Details.vbhtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Details.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:34:32.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-25T17:47:15.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Delete.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Delete.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Delete.vbhtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Delete.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:34:56.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Create.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Create.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Create.vbhtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Create.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:32:56.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Index.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Estudiantes\\Index.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Estudiantes\\Index.vbhtml",
+              "RelativeToolTip": "Views\\Estudiantes\\Index.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:32:16.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Delete.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Calificaciones\\Delete.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Delete.vbhtml",
+              "RelativeToolTip": "Views\\Calificaciones\\Delete.vbhtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:26:27.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Edit.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Edit.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Calificaciones\\Edit.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Edit.vbhtml",
+              "RelativeToolTip": "Views\\Calificaciones\\Edit.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:25:40.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.vbhtml",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Create.vbhtml",
+              "RelativeDocumentMoniker": "Views\\Calificaciones\\Create.vbhtml",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Views\\Calificaciones\\Create.vbhtml",
+              "RelativeToolTip": "Views\\Calificaciones\\Create.vbhtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003381|",
+              "WhenOpened": "2026-09-25T17:20:43.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CalificacionesRepository.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\CalificacionesRepository.vb",
+              "RelativeDocumentMoniker": "Data\\CalificacionesRepository.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\CalificacionesRepository.vb",
+              "RelativeToolTip": "Data\\CalificacionesRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:18:35.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Estudiantes.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\Estudiantes.vb",
+              "RelativeDocumentMoniker": "Models\\Estudiantes.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\Estudiantes.vb",
+              "RelativeToolTip": "Models\\Estudiantes.vb",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:01:07.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EstudiantesRepository.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\EstudiantesRepository.vb",
+              "RelativeDocumentMoniker": "Data\\EstudiantesRepository.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Data\\EstudiantesRepository.vb",
+              "RelativeToolTip": "Data\\EstudiantesRepository.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:16:07.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Calificaciones.vb",
+              "DocumentMoniker": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\Calificaciones.vb",
+              "RelativeDocumentMoniker": "Models\\Calificaciones.vb",
+              "ToolTip": "D:\\Downloads\\PruebaTecnicaIndra\\TestEstudiantes\\Models\\Calificaciones.vb",
+              "RelativeToolTip": "Models\\Calificaciones.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-25T04:04:00.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
